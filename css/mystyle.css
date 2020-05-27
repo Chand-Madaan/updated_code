@@ -1,0 +1,32 @@
+.cap_position
+{
+    position: relative;
+    top: -25px;
+    left: 7%;
+}
+.comments
+{
+    border: 1px solid lightgray;
+    overflow: auto;
+    height: 200px;
+    width: 87%;
+    border-radius: 3px;
+    background-color: lightgrey;
+    margin: 2% 2% 2% 9% ;
+    padding: 2%;
+
+}
+.single_comment
+{
+    border-bottom: 1px solid gray;
+    padding-bottom: 1%;
+}
+#course,#year,#Category
+{
+    display: none;
+}
+.logo
+{
+    margin-bottom: 1%;
+    margin-top: -.8%;
+}
