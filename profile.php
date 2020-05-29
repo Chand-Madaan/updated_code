@@ -72,7 +72,7 @@ if(!isset($_SESSION["user_id"])){
                         <li class="divider"></li>
                         <li><a href="customer_order.php" style="text-decoration:none; color:blue;">Orders</a></li>
                         <li class="divider"></li>
-                        <li><a href="retailer_changepassword.php" style="text-decoration:none; color:blue;">Change Password</a></li>
+                        <li><a href="all_orders.php" style="text-decoration:none; color:blue;">Order History</a></li>
                         <li class="divider"></li>
                         <li><a href="retailer_logout.php" style="text-decoration:none; color:blue;">Logout</a></li>
                     </ul>

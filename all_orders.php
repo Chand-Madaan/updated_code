@@ -54,11 +54,15 @@
                                         <?php echo "Cancelled"; ?>
                                     </td>
                                 <?php } ?>
+                                    <td>
+                                       <button><a href="reorder_success.php"   style="margin-right: 8px;"> Reorder</button>
+                                    </td>
                             </table>
                         </div>
                     </div>
 
                     <?php
+
                 }
             }
             ?>
